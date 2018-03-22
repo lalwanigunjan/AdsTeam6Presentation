@@ -1,7 +1,3 @@
 #!/bin/bash
-set -e
-
-# clean the output from the notebooks
-for d in *ipynb; do
-    python clean_notebook.py $d;
-done;
+echo "This should never run"
+exit 1

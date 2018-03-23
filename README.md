@@ -9,3 +9,6 @@ docker run -it --rm -p 8888:8888 jupyter/datascience-notebook start.sh jupyter l
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lalwanigunjan/AdsTeam6Presentation/master)
 
+
+.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/lalwanigunjan/AdsTeam6Presentation/master
+

@@ -1,6 +1,6 @@
 # AdsTeam6Presentation
 
-This notebook is built on docker-stack data science notebook. 
+This notebook is built on Jupyter Notebook Data Science Stack. 
 Below is the command to get the docker-stack notebook.
 
 docker run -it --rm -p 8888:8888 jupyter/datascience-notebook start.sh jupyter lab

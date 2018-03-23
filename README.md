@@ -1,3 +1,11 @@
 # AdsTeam6Presentation
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lalwanigunjan/AdsTeam6Presentation/master?filepath=https%3A%2F%2Fgithub.com%2Flalwanigunjan%2FAdsTeam6Presentation%2Fblob%2Fmaster%2Fdocker-stack-datascienceNotebook.ipynb)
+This notebook is built on docker-stack data science notebook. 
+Below is the command to get the docker-stack notebook.
+
+docker run -it --rm -p 8888:8888 jupyter/datascience-notebook start.sh jupyter lab
+
+# Try it live
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lalwanigunjan/AdsTeam6Presentation/master)
+
